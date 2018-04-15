@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="10dp"
+    android:paddingLeft="10dp"
+    android:paddingRight="10dp"
+    android:paddingTop="10dp"
+    tools:context="br.com.joao.alfabetolibraskids.Activity_01"
+    android:background="@color/material_deep_teal_200">
+
+
+    <Button
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:id="@+id/button11"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="0dp"
+        android:background="@android:drawable/ic_menu_set_as" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/textoActivity_01_01"
+        android:id="@+id/textView11"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="70dp"
+        android:textSize="20dp"
+        android:textColor="@android:color/holo_red_dark" />
+
+    <Button
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:id="@+id/button12"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="70dp"
+        android:layout_marginLeft="0dp"
+        android:background="@android:drawable/ic_menu_set_as" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/textoActivity_01_02"
+        android:id="@+id/textView12"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="80dp"
+        android:layout_marginLeft="70dp"
+        android:textSize="20dp"
+        android:textColor="@android:color/holo_red_dark" />
+
+    <Button
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:id="@+id/button13"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="130dp"
+        android:layout_marginLeft="0dp"
+        android:background="@android:drawable/ic_menu_set_as" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/textoActivity_01_03"
+        android:id="@+id/textView13"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="140dp"
+        android:layout_marginLeft="70dp"
+        android:textSize="20dp"
+        android:textColor="@android:color/holo_red_dark" />
+
+    <Button
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:id="@+id/button18"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="190dp"
+        android:layout_marginLeft="0dp"
+        android:background="@android:drawable/ic_menu_set_as" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/textoActivity_01_12"
+        android:id="@+id/textView18"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="210dp"
+        android:layout_marginLeft="70dp"
+        android:textSize="20dp"
+        android:textColor="@android:color/holo_red_dark" />
+
+    <Button
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:id="@+id/button16"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="250dp"
+        android:layout_marginLeft="0dp"
+        android:background="@android:drawable/ic_menu_set_as" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/textoActivity_01_10"
+        android:id="@+id/textView16"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="270dp"
+        android:layout_marginLeft="70dp"
+        android:textSize="20dp"
+        android:textColor="@android:color/holo_red_dark" />
+
+    <Button
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:id="@+id/button17"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="310dp"
+        android:layout_marginLeft="0dp"
+        android:background="@android:drawable/ic_menu_set_as" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/textoActivity_01_11"
+        android:id="@+id/textView17"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="330dp"
+        android:layout_marginLeft="70dp"
+        android:textSize="20dp"
+        android:textColor="@android:color/holo_red_dark" />
+
+    <Button
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:id="@+id/button14"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="370dp"
+        android:layout_marginLeft="0dp"
+        android:background="@android:drawable/ic_menu_set_as" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/textoActivity_01_04"
+        android:id="@+id/textView14"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="390dp"
+        android:layout_marginLeft="70dp"
+        android:textSize="20dp"
+        android:textColor="@android:color/holo_red_dark" />
+
+    <Button
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:id="@+id/button15"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="430dp"
+        android:layout_marginLeft="0dp"
+        android:background="@android:drawable/ic_menu_set_as" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/textoActivity_01_05"
+        android:id="@+id/textView15"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="450dp"
+        android:layout_marginLeft="70dp"
+        android:textSize="20dp"
+        android:textColor="@android:color/holo_red_dark" />
+
+
+</RelativeLayout>

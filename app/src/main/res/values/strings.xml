@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Alfabeto Kids LIBRAS</string>
+    <string name="textoActivity_00_01">Projeto Beethoven: aproximando as pessoas. O objetivo principal é incentivar o desenvolvimento de tecnologias para melhorar a acessibilidade.</string>
+    <string name="textoActivity_00_02">COMEÇAR</string>
+    <string name="textoActivity_00_03">Apoio:</string>
+    <string name="textoActivity_00_04">Escolha o seu navegador de preferência:</string>
+    <string name="textoActivity_01_01">Teclado LIBRAS</string>
+    <string name="textoActivity_01_02">Jogo da Forca LIBRAS - fácil</string>
+    <string name="textoActivity_01_03">Jogo da Forca LIBRAS - intermediário</string>
+    <string name="textoActivity_01_04">ProjetoBeethoven.com.br</string>
+    <string name="textoActivity_01_05">Fale conosco</string>
+    <string name="textoActivity_01_06">Digite o seu texto...</string>
+    <string name="textoActivity_01_07">Escolha o seu aplicativo de envio de mensagens:</string>
+    <string name="textoActivity_01_08">Não há programas instalados para envio de mensagem! Configure diretamente no seu aparelho.</string>
+    <string name="textoActivity_01_09">Envio de mensagem do Aplicativo Alfabeto LIBRAS</string>
+    <string name="textoActivity_01_10">Soletrando - fácil</string>
+    <string name="textoActivity_01_11">Soletrando - intermediário</string>
+    <string name="textoActivity_01_12">Jogo da Forca LIBRAS - difícil</string>
+    <string name="textoActivity_02_01">Fontes: www.ideiacriativa.org</string>
+    <string name="textoActivity_03_01">Escolha as letras corretas</string>
+    <string name="textoActivity_03_02">DICA: </string>
+    <string name="textoActivity_03_03">NOVO JOGO</string>
+    <string name="textoActivity_03_04">FIM DO JOGO! PARABÉNS!</string>
+    <string name="textoActivity_03_05">ERROS: </string>
+    <string name="textoActivity_05_01">NOVA PALAVRA</string>
+</resources>
